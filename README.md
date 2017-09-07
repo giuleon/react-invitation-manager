@@ -4,6 +4,8 @@
 
 Sample SharePoint Framework web parts built using React illustrating the possibility to use Graph API to invite external users into the Azure Active Directory.
 
+[READ MY ARTICLE ON MY BLOG: http://www.delucagiuliano.com/inviting-external-user-with-sharepoint-framework/](http://www.delucagiuliano.com/inviting-external-user-with-sharepoint-framework/)
+
 ### Invitation manager
 
 Sample SharePoint Framework client-side web part built using React showing how to invite the external user using the Microsoft Graph.
